@@ -5,8 +5,8 @@
     "image": "portfolioweb",
     "category": "basicweb",
     "links": {
-      "view": "https://instagramernstack.herokuapp.com/",
-      "code": "https://github.com/jigar-sable/instagram-mern"
+      "view": "https://its-abhi-portfolio.netlify.app/",
+      "code": "https://github.com/decode16/Abhiraj-portfolio.git"
     }
   },
   {
@@ -16,7 +16,7 @@
     "category": "basicweb",
     "links": {
       "view": "https://apnawebsitewithoutresponsive.netlify.app/",
-      "code": "https://github.com/jigar-sable/flipkart-mern"
+      "code": "https://github.com/decode16/apna-collage-webpage.git"
     }
   },
   {
