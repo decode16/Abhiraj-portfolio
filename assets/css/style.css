@@ -605,12 +605,12 @@ background: #c6efe8;
   }
   .skills .container .row {
     grid-template-columns: repeat(2, 1fr);
-    margin: 1rem;
+    margin: 2rem;
     padding: 2rem 0.2rem 2rem 0.2rem;
-    gap: 1rem;
+    gap: 2rem;
   }
   .skills .container {
-    margin-top: 5px;
+    margin-top: 15px;
     width: 100%;
   }
 }
